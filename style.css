@@ -1,0 +1,29 @@
+body{
+	margin: 0; 
+}
+header{
+	display: flex;
+	justify-content: center; 
+}
+main{
+ 	background:red;
+ 	display: flex;
+ 	align-items: center;   
+}
+.section-inicio{
+	background:white;
+	width:42%;
+	border:solid 20%;
+	box-shadow: 1px -1px 7px 1px rgba(0,0,0,0.5); 
+}
+.section-imgframework{
+	display: flex;
+	justify-content: space-around; 
+	align-items:left;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.5); 
+} 
+.div1{
+	background: white;
+	display: flex;
+	width:30%; 
+}
